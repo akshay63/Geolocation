@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.29.3"
+  },
+  "name": "geolocation",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\" --https"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
